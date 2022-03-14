@@ -1,0 +1,8 @@
+{
+    Vb66jCUFC-o5RPJc5zaoSMuIDAw7bJyq': {
+        "cookie":
+        {"originalMaxAge":null,"expires":null,"httpOnly":true,"path":"/"},
+        "passport":
+        {"user":
+            {"id":"104718559199815936034","displayName":"William wnh","name":{"familyName":"wnh","givenName":"William"},"emails":[{"value":"william1006wei@gmail.com","verified":true}],"photos":[{"value":"https://lh3.googleusercontent.com/a-/AOh14GhDN8umEfs67Rzu9Tr4ZCepVoGo62tJkbm1Crn-Ew=s96-c"}],
+            "provider":"google","_raw":"{\\n  \\"sub\\": \\"104718559199815936034\\",\\n  \\"name\\": \\"William wnh\\",\\n  \\"given_name\\": \\"William\\",\\n  \\"family_name\\": \\"wnh\\",\\n  \\"picture\\": \\"https://lh3.googleusercontent.com/a-/AOh14GhDN8umEfs67Rzu9Tr4ZCepVoGo62tJkbm1Crn-Ew\\\\u003ds96-c\\",\\n  \\"email\\": \\"william1006wei@gmail.com\\",\\n  \\"email_verified\\": true,\\n  \\"locale\\": \\"zh-TW\\"\\n}","_json":{"sub":"104718559199815936034","name":"William wnh","given_name":"William","family_name":"wnh","picture":"https://lh3.googleusercontent.com/a-/AOh14GhDN8umEfs67Rzu9Tr4ZCepVoGo62tJkbm1Crn-Ew=s96-c","email":"william1006wei@gmail.com","email_verified":true,"locale":"zh-TW"}}}}}
